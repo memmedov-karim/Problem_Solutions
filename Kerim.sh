@@ -99,6 +99,8 @@ printf "  \e[100m\e[1;77m >>  Instagram : \e[1;96m instagram.com/sixkerimmemmedo
 printf "\n"
 printf "  \e[101m\e[1;77m #>   Note: Turn on mobile hotspot to get link.....!  <# \e[0m\n"
 printf "\n"
+printf "  \e[101m\e[1;77m #>   Contact: +994 70 2388838  <# \e[0m\n"
+printf "\n"
 }
 
 catch_cred() {
