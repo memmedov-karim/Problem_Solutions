@@ -87,11 +87,11 @@ fi
 
 banner() {
 printf "\n"
-printf "\e[1;33m  _|    _|                      _|        _|                            _|\e[0m\n"
+printf "\e[1;33m  kerim    _|                      _|        _|                            _|\e[0m\n"
 printf "\e[1;33m  _|    _|    _|_|_|    _|_|_|  _|  _|    _|          _|_|      _|_|_|  _|  _| \e[0m\n"
 printf "\e[1;31m  _|_|_|_|  _|    _|  _|        _|_|      _|        _|    _|  _|        _|_\e[0m\n"
 printf "\e[1;92m  _|    _|  _|    _|  _|        _|  _|    _|        _|    _|  _|        _|  _|\e[0m\n"
-printf "\e[1;92m  _|    _|    _|_|_|    _|_|_|  _|    _|  _|_|_|_|    _|_|      _|_|_|  _|    _| v1.0 \e[0m\n"
+printf "\e[1;92m  _|    _|    _|_|_|    _|_|_|  _|    _|  _|_|_|_|    _|_|      _|_|_|  _|    kerim v1.0 \e[0m\n"
 printf "\n"
 printf "                \e[104m\e[1;77m  >>  Script By sparkz-technology << \e[0m\n"
 printf "\n"
